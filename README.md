@@ -25,3 +25,4 @@ LAB EC2 with TF: https://learn.hashicorp.com/tutorials/terraform/aws-build?in=te
 
 
 Code -> Push to GIT -> Trigger to Deploy to Cloud Resource using TF
+![image](https://user-images.githubusercontent.com/74888453/175966817-02cb34b8-692e-4495-ad91-a5c538bb3ac6.png)
